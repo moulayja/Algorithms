@@ -1,4 +1,6 @@
-// ==(3)============= [Odd Numbers Algo] ================
+// =============== [Odd Numbers Algo] ================
+
+
 
 
 function oddNumbers(arr) {
