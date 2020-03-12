@@ -1,5 +1,5 @@
 
-// ==(============= [FizzBuzz Algo] ================
+// =============== [FizzBuzz Algo] ================
 
 
 function fizzBuzz(n) {
