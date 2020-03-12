@@ -1,6 +1,5 @@
 // =============== [Vowel Counter Algo] ================
 
-
 const vowelCounter = str => {
   let counter = 0;
   let checker = ['a', 'e', 'i', 'o', 'u']
@@ -13,8 +12,6 @@ const vowelCounter = str => {
 }
 
 vowelCounter('jamalino koko chino')
-
-
 
 
 
