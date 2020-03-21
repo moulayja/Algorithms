@@ -7,3 +7,5 @@ const palindrome = str => {
   }
   
   palindrome('RaceCar')
+
+  
